@@ -1,31 +1,15 @@
 <div align="center">
 
-# Hi there, I'm Luca!
+# Luca Oelfke
 
-Welcome to my GitHub profile!
+**Terminal enthusiast & CLI developer**
 
-## About Me
+<br>
 
-- I'm passionate about terminal tools and CLI applications
-- Always learning and exploring new technologies
-- Love solving problems with code
+Building tools that live in the terminal.
 
-## Technologies & Tools
+<br>
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
-## GitHub Stats
-
-![Terminalluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=terminalluca&show_icons=true&theme=dark)
-
-## Connect With Me
-
-Feel free to reach out!
-
----
-
-*Last updated: January 2026*
+[Projects](https://github.com/terminalluca?tab=repositories) • [Contact](mailto:lucaoelfke12@gmail.com)
 
 </div>
