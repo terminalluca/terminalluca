@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luca Oelfke
+# Luca 
 
 **Terminal enthusiast & CLI developer**
 
