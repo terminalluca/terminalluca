@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Luca!
 
 Welcome to my GitHub profile!
@@ -25,3 +27,5 @@ Feel free to reach out!
 ---
 
 *Last updated: January 2026*
+
+</div>
