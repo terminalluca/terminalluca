@@ -1,12 +1,12 @@
-# Hi there, I'm Luca! 👋
+# Hi there, I'm Luca!
 
 Welcome to my GitHub profile!
 
 ## About Me
 
-- 🖥️ I'm passionate about terminal tools and CLI applications
-- 🌱 Always learning and exploring new technologies
-- 💡 Love solving problems with code
+- I'm passionate about terminal tools and CLI applications
+- Always learning and exploring new technologies
+- Love solving problems with code
 
 ## Technologies & Tools
 
